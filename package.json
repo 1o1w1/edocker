@@ -1,0 +1,13 @@
+{
+  "name": "edocker",
+  "version": "1.0.0",
+  "description": "simplifying the development environment with docker",
+  "bin": {
+    "edocker": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
