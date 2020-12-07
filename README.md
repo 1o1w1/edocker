@@ -1,2 +1,2 @@
 # edocker
-simplifying the development environment with docker
+simplify the development environment with docker
